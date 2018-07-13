@@ -1,1 +1,2 @@
 fist line in my b.txt
+this is my second line 
