@@ -2,3 +2,6 @@ i want to a particular file from git to my local directory
 
 hi again
 
+i am fi9
+
+i am good
